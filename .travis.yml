@@ -1,11 +1,14 @@
 language: go
 sudo: false
-os: osx
 go:
   - 1.11.x
 env:
   global:
     - GO111MODULE=on
+install:
+  - go get -v .
+
+before_script:
+  - go vet -v ./...
 script:
-  - make test
-  - make build-native
+  - echo $TRAVIS_GO_VERSION; go test -race -v -timeout 60s ./...
