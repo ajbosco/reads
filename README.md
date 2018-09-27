@@ -1,5 +1,7 @@
 # reads
 
+[![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://godoc.org/github.com/ajbosco/reads/goodreads)
+
 Command line tool to interact with [Goodreads](https://www.goodreads.com).
 
 - [Installation](#installation)
