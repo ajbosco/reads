@@ -1,11 +1,11 @@
 language: go
 sudo: false
+os: osx
 go:
   - 1.11.x
 env:
   global:
     - GO111MODULE=on
 script:
-  - cd goodreads && ls
   - make test
   - make build-native
