@@ -5,6 +5,8 @@
 
 Command line tool to interact with [Goodreads](https://www.goodreads.com).
 
+![screenshot](/img/screenshot.png)
+
 - [Installation](#installation)
     + [Binaries](#binaries)
     + [With Go](#with-go)
