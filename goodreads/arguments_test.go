@@ -14,12 +14,12 @@ func TestArguments(t *testing.T) {
 		queryString string
 	}{
 		{
-			name:        "single arugment",
+			name:        "single argument",
 			args:        Arguments{"title": "Alice in Wonderland"},
 			queryString: "title=Alice+in+Wonderland",
 		},
 		{
-			name:        "multiple arugment",
+			name:        "multiple argument",
 			args:        Arguments{"title": "Alice in Wonderland", "author": "Lewis Carroll"},
 			queryString: "author=Lewis+Carroll&title=Alice+in+Wonderland",
 		},
