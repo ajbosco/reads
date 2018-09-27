@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sirupsen/logrus"
-	"github.com/urfave/cli"
 	"github.com/ajbosco/reads/goodreads"
 	"github.com/ajbosco/reads/version"
+	"github.com/sirupsen/logrus"
+	"github.com/urfave/cli"
 )
 
 var (
