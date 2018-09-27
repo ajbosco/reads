@@ -5,7 +5,10 @@ go:
 env:
   global:
     - GO111MODULE=on
-before_install:
-  - go get github.com/mattn/goveralls
+install:
+  - go get -v .
+
+before_script:
+  - go vet -v ./...
 script:
-  - $HOME/gopath/bin/goveralls -service=travis-ci
+  - echo $TRAVIS_GO_VERSION; go test -race -v -timeout 60s ./...

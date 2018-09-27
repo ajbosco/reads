@@ -9,7 +9,7 @@ import (
 
 func TestReadConfig(t *testing.T) {
 	cfg := new(Config)
-	testConfigFile := filepath.Join("testdata", "config.yml")
+	testConfigFile := filepath.Join("testdata", "config.test.yml")
 
 	cfg, err := ReadConfig(testConfigFile)
 	assert.NoError(t, err)
