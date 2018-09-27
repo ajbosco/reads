@@ -1,0 +1,165 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[good-reads-key]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+<reviews start="1" end="2" total="2">
+    <review>
+  <id>2501438319</id>
+    <book>
+  <id type="integer">36111562</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">50</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.r9eNQlGNlcnB7KJGqLvYeA</uri>
+  <title>Senlin Ascends (The Books of Babel, #1)</title>
+  <title_without_series>Senlin Ascends</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36111562-senlin-ascends</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>5520</ratings_count>
+  <description>The Tower of Babel is the greatest marvel in the world. Immense as a mountain, the ancient Tower holds unnumbered ringdoms, warring and peaceful, stacked one on the other like the layers of a cake. It is a world of geniuses and tyrants, of airships and steam engines, of unusual animals and mysterious machines.&lt;br /&gt;&lt;br /&gt;Soon after arriving for his honeymoon at the Tower, the mild-mannered headmaster of a small village school, Thomas Senlin, gets separated from his wife, Marya, in the overwhelming swarm of tourists, residents, and miscreants. &lt;br /&gt;&lt;br /&gt;Senlin is determined to find Marya, but to do so he'll have to navigate madhouses, ballrooms, and burlesque theaters. He must survive betrayal, assassination, and the long guns of a flying fortress. But if he hopes to find his wife, he will have to do more than just endure. &lt;br /&gt;&lt;br /&gt;This quiet man of letters must become a man of action.</description>
+<authors>
+<author>
+<id>6978502</id>
+<name>Josiah Bancroft</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510167832p5/6978502.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510167832p2/6978502.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6978502.Josiah_Bancroft]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>8083</ratings_count>
+<text_reviews_count>1362</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>24467682</id>
+  <uri>kca://work/amzn1.gr.work.v1.aATDaqG0-wb62o34fCS5RQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="6422639" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Sep 09 04:49:32 -0700 2018</started_at>
+  <read_at>Mon Sep 17 20:00:55 -0700 2018</read_at>
+  <date_added>Mon Aug 20 18:59:37 -0700 2018</date_added>
+  <date_updated>Mon Sep 17 20:01:00 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2501438319]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2501438319]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2500718904</id>
+    <book>
+  <id type="integer">36510196</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">152</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7sj7r8V2FIyW9Bogd6cyKQ</uri>
+  <title>Old Man's War (Old Man's War, #1)</title>
+  <title_without_series>Old Man's War</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1509467059m/36510196.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1509467059s/36510196.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36510196-old-man-s-war</link>
+  <num_pages>332</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>127438</ratings_count>
+  <description>John Perry did two things on his 75th birthday. First he visited his wife's grave. Then he joined the army.&lt;br /&gt;&lt;br /&gt;The good news is that humanity finally made it into interstellar space. The bad news is that planets fit to live on are scarce-- and alien races willing to fight us for them are common. So: we fight. To defend Earth, and to stake our own claim to planetary real estate. Far from Earth, the war has been going on for decades: brutal, bloody, unyielding.&lt;br /&gt;&lt;br /&gt;Earth itself is a backwater. The bulk of humanity's resources are in the hands of the Colonial Defense Force. Everybody knows that when you reach retirement age, you can join the CDF. They don't want young people; they want people who carry the knowledge and skills of decades of living. You'll be taken off Earth and never allowed to return. You'll serve two years at the front. And if you survive, you'll be given a generous homestead stake of your own, on one of our hard-won colony planets.&lt;br /&gt;&lt;br /&gt;John Perry is taking that deal. He has only the vaguest idea what to expect. Because the actual fight, light-years from home, is far, far harder than he can imagine--and what he will become is far stranger.</description>
+<authors>
+<author>
+<id>4763</id>
+<name>John Scalzi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1407277112p5/4763.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1407277112p2/4763.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>567563</ratings_count>
+<text_reviews_count>46285</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>50700</id>
+  <uri>kca://work/amzn1.gr.work.v1.j7Z9ksghuQbWG761dcNj-Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="6422639" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 29 19:43:09 -0700 2018</started_at>
+  <read_at>Sun Sep 09 04:48:38 -0700 2018</read_at>
+  <date_added>Mon Aug 20 09:16:54 -0700 2018</date_added>
+  <date_updated>Sun Sep 09 04:48:38 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2500718904]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2500718904]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

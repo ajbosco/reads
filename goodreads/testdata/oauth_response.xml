@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[good-reads-key]]></key>
+    <method><![CDATA[api_auth_user]]></method>
+</Request>
+  <user id="12345">
+    <name>Test User</name>
+    <link>test</link>
+  </user>
+</GoodreadsResponse>

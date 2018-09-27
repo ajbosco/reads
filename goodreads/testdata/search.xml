@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[good-reads-key]]></key>
+    <method><![CDATA[search_index]]></method>
+  </Request>
+  <search>
+  <query><![CDATA[Golang]]></query>
+    <results-start>1</results-start>
+    <results-end>20</results-end>
+    <total-results>21</total-results>
+    <source>Goodreads</source>
+    <query-time-seconds>0.21</query-time-seconds>
+    <results>
+        <work>
+  <id type="integer">44528317</id>
+  <books_count type="integer">2</books_count>
+  <ratings_count type="integer">49</ratings_count>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">16</original_publication_day>
+  <average_rating>3.73</average_rating>
+  <best_book type="Book">
+    <id type="integer">24880488</id>
+    <title>Go Programming Blueprints - Solving Development Challenges with Golang</title>
+    <author>
+      <id type="integer">13479862</id>
+      <name>Mat Ryer</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">44993206</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">12</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>3.42</average_rating>
+  <best_book type="Book">
+    <id type="integer">25268243</id>
+    <title>Build Web Application with Golang</title>
+    <author>
+      <id type="integer">13760190</id>
+      <name>astaxie</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+        <work>
+  <id type="integer">59140302</id>
+  <books_count type="integer">1</books_count>
+  <ratings_count type="integer">3</ratings_count>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <original_publication_year type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <average_rating>5.00</average_rating>
+  <best_book type="Book">
+    <id type="integer">37538796</id>
+    <title>Cloud Native programming with Golang</title>
+    <author>
+      <id type="integer">7702648</id>
+      <name>Martin Helmich</name>
+    </author>
+    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  </best_book>
+</work>
+
+    </results>
+</search>
+
+</GoodreadsResponse>
