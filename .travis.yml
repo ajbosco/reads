@@ -5,7 +5,6 @@ go:
 env:
   global:
     - GO111MODULE=on
-before_install:
-  - go get github.com/mattn/goveralls
 script:
-  - $HOME/gopath/bin/goveralls -service=travis-ci
+  - make test
+  - make build-native
