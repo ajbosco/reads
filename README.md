@@ -78,7 +78,7 @@ USAGE:
 ### List Shelves
 
 ```console
-$ reads list -h
+$ reads shelves list -h
 NAME:
    reads shelves list - list your shelves
 
