@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/ajbosco/reads/utils"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
-	"github.com/ajbosco/reads/utils"
 )
 
 var (

@@ -1,6 +1,7 @@
 # reads
 
 [![Travis CI](https://img.shields.io/travis/ajbosco/reads.svg?style=flat-square)](https://travis-ci.org/ajbosco/reads)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ajbosco/reads?style=flat-square)](https://goreportcard.com/report/github.com/ajbosco/reads)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://godoc.org/github.com/ajbosco/reads/goodreads)
 
 Command line tool to interact with [Goodreads](https://www.goodreads.com).
