@@ -6,5 +6,6 @@ env:
   global:
     - GO111MODULE=on
 script:
+  - cd goodreads && ls
   - make test
   - make build-native
