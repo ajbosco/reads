@@ -41,13 +41,18 @@ type User struct {
 
 // Reviews defines the struct for the reviews object
 type Reviews struct {
-	Books []Book `xml:"review>book,omitempty"`
+	AttrEnd   string `xml:"end,attr"`
+	AttrStart string `xml:"start,attr"`
+	AttrTotal string `xml:"total,attr"`
+	Books     []Book `xml:"review,omitempty"`
 }
 
 // Book defines the struct for the book object
 type Book struct {
-	ID        string `xml:"id,omitempty"`
-	Title     string `xml:"title,omitempty"`
-	AvgRating string `xml:"average_rating,omitempty"`
-	Link      string `xml:"link,omitempty"`
+	ID        string `xml:"book>id,omitempty"`
+	Title     string `xml:"book>title,omitempty"`
+	AvgRating string `xml:"book>average_rating,omitempty"`
+	Link      string `xml:"book>link,omitempty"`
+	Pages     string `xml:"book>num_pages,omitempty"`
+	ReadAt    string `xml:"read_at,omitempty"`
 }
