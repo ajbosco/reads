@@ -27,7 +27,7 @@ For installation instructions from binaries please visit the [Releases Page](htt
 #### With Go
 
 ```console
-$ go get github.com/ajbosco/reads
+$ go get github.com/ajbosco/reads/cmd/reads
 ```
 
 ## Authentication
